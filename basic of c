@@ -1,0 +1,38 @@
+// double slash are used for commenting in the code. Comments are hints that we add to our program to make our code easier to understand. 
+//They are mainly used for humans to read and understand the code.
+//semicolon (;) at the end is mandatory in c programming. it indicates the end of the statment 
+*keywords
+
+Keywords are predefined, reserved words used in programming that have special meanings to the compiler. Keywords are part of the syntax and they cannot be used as an identifier.
+32 reserved keyword for c:
+auto, break, case, char, const, continue, enum, if, default, do, double, else, extern, float, for, goto, int, long,
+register, return, chart, signed, size of, static, struct, switch, type text, union, unsigned, void, volatile, while 
+
+*Literals
+In programming, we will be dealing with different types of data. All these fixed data (values) that we can use directly in our program are called literals.
+
+                                      Different Types of Literals
+                                                  |
+              |-----------------------------------|---------------------------------|
+    Integer Literals                    Floating-point Literals               Character Literals
+    (Numbers without decimal parts     (No. that have a decimal part        (A single character that is enclosed
+     For ex.25, -75, 50)                For ex.21.5, 32.9, 9.0)              within single quotation marks
+                                                                             for ex.'Aditya 4289', '4', 'd')
+                    
+   *Variables
+   Variables are containers to store data like numbers and characters
+   
+   The syntax to declare variables in C programming is:
+   int age;    or int main;
+   in above example age and main are variable and int is keyword
+   we use printf function to print variables in c programming
+   %d is used for format specifier
+   %if is used for double specifier
+   
+   *data type
+   Data types determine the type of data associated with variables
+   1. int type - used for integer values without decimal. for ex 54, -21, 32, etc
+   2. double type - used for floating-point numbers with decimal. for ex 51.9, 62.5, etc
+   3. char type - used for characters. for ex 'A', '+', etc
+   
+   
