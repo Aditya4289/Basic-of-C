@@ -21,6 +21,10 @@ In programming, we will be dealing with different types of data. All these fixed
                     
    *Variables
    Variables are containers to store data like numbers and characters
+   types of variables
+   1.create variables
+   2.print variables
+   3.change values assigned to variable
    
    The syntax to declare variables in C programming is:
    int age;    or int main;
